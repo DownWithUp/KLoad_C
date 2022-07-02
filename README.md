@@ -1,3 +1,7 @@
+# Archive Notice: 
+### This tool has been replaced by https://github.com/DownWithUp/KLoad
+<hr>
+
 # KLoad
 A simple command line utility to quickly load and unload Windows drivers
 ## Usage
